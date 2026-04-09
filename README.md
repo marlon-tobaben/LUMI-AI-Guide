@@ -42,8 +42,8 @@ The guide is structured into the following sections:
 - [LUMI software library, Jax](https://lumi-supercomputer.github.io/LUMI-EasyBuild-docs/j/jax/)
 - [Workshop material - Moving your AI training jobs to LUMI](https://lumi-supercomputer.github.io/LUMI-training-materials/ai-20240529/)
 
-### Main contributors
-The main contributors of this repository are the [LUMI User Support Team (LUST)](https://lumi-supercomputer.eu/user-support/need-help/
+### Primary contributors
+The primary contributors to this repository are the [LUMI User Support Team (LUST)](https://lumi-supercomputer.eu/user-support/need-help/
 ) and the [LUMI AI Factory](lumi-ai-factory.eu).
 
 ![image](assets/images/LUMI_AIF_logo.png)
