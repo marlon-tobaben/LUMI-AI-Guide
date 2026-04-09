@@ -44,7 +44,7 @@ The guide is structured into the following sections:
 
 ### Primary contributors
 The primary contributors to this repository are the [LUMI User Support Team (LUST)](https://lumi-supercomputer.eu/user-support/need-help/
-) and the [LUMI AI Factory](lumi-ai-factory.eu).
+) and the [LUMI AI Factory](https://lumi-ai-factory.eu).
 
-![image](assets/images/LUMI_AIF_logo.png)
-![image](assets/images/LUMI_AIF_funding.png)
+[![image](assets/images/LUMI_AIF_logo.png)](https://lumi-ai-factory.eu)
+[![image](assets/images/LUMI_AIF_funding.png)](https://lumi-ai-factory.eu)
